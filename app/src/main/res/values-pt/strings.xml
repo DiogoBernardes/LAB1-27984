@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LAB1-27984</string>
+    <string name="pageNumber">Página 1</string>
+    <string name="pageNumber2">Página 2</string>
+    <string name="identification">Diogo Bernardes, 27984</string>
+    <string name="nextPage">Próxima Página</string>
+    <string name="close">Fechar Aplicação</string>
+</resources>
